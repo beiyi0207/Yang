@@ -187,8 +187,11 @@ body {
     background: #00abbe;
     color: #fff;
     border-radius: 50%;
+<<<<<<< HEAD
     cursor: pointer;
     cursor: hand;
+=======
+>>>>>>> Website Layout
   }
 
   .media__link .rg-logo {
@@ -216,7 +219,10 @@ body {
   position: fixed;
   bottom: 0;
   width: 100%;
+<<<<<<< HEAD
   border-top: 5px solid #fbfbfb;
+=======
+>>>>>>> Website Layout
 }
 
 .nav__list {
@@ -226,7 +232,12 @@ body {
   align-items: flex-start;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   background: #007c8a;
+=======
+  background: #fff;
+  border-top: 1px solid #00abbe;
+>>>>>>> Website Layout
 }
 
 .nav__item {
@@ -236,31 +247,56 @@ body {
 }
 
 .nav__link, .nav__link:visited {
+<<<<<<< HEAD
   font-size: 1.1em;
   text-decoration: none;
   color: #fff;
   padding: 12.5px;
   padding-top: 15px;
+=======
+  font-size: 1.25em;
+  text-decoration: none;
+  color: #00abbe;
+  padding: 12.5px;
+  padding-top: 10px;
+>>>>>>> Website Layout
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+<<<<<<< HEAD
 }
 
   .nav__link:hover {
     border-bottom: 5px solid #fff;
     cursor: pointer;
     cursor: hand;
+=======
+  border-top: 6px solid transparent;
+}
+
+  .nav__link:hover {
+    border-top: 6px solid #f7980f;
+>>>>>>> Website Layout
   }
 
   .nav__link--current, .nav__link--current:hover {
     cursor: default;
+<<<<<<< HEAD
     border-bottom: 5px solid #fff;
+=======
+    border-top: 6px solid #f7980f;
+>>>>>>> Website Layout
   }
 
 .nav__label {
   font-family: 'proxima-nova';
+<<<<<<< HEAD
   font-size: 0.6rem;
+=======
+  color: #007c8a;
+  font-size: 0.7rem;
+>>>>>>> Website Layout
   margin-top: 4px;
   font-variant: small-caps;
   text-transform: uppercase;
@@ -276,6 +312,11 @@ body {
   .nav__list {
     justify-content: flex-start;
     background: transparent;
+<<<<<<< HEAD
+=======
+    padding: 0;
+    border-top: none;
+>>>>>>> Website Layout
   }
 
   .nav__link, .nav__link:visited {
